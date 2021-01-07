@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EraseObject()
+comment1.params=
+comment1.target=void\ getData()
+comment2.params=
+comment2.target=void\ printImage()
+comment3.params=row\ col
+comment3.target=boolean\ edges(int,\ int)
+comment4.params=row\ col
+comment4.target=void\ erase(int,\ int)
+numComments=5
